@@ -1,4 +1,6 @@
+#!/usr/bin/env node
 const run = require('./runCommand');
+
 
 const yargs = require('yargs/yargs');
 const { hideBin } = require('yargs/helpers');
